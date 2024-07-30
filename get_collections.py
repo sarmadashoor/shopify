@@ -1,7 +1,7 @@
 import requests
 #
 # Replace with your actual API token and shop name
-API_TOKEN = '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'
+API_TOKEN = ''
 SHOP_NAME = '761d3f-f5'
 API_VERSION = '2024-07'
 

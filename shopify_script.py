@@ -1,12 +1,10 @@
-#api token: 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
-#api key: 2104778a160703a76278c203aa639424
-#api secret key: 1a271f9cc93286b43e79e1ba4ed3458f
+
 
 import requests
 import requests
 #
 # Replace these with your actual API token and shop name
-API_TOKEN = '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'
+API_TOKEN = ''
 SHOP_NAME = '761d3f-f5'
 API_VERSION = '2024-07'
 
