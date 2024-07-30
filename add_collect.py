@@ -2,7 +2,7 @@ import requests
 #
 # Replace with your actual API token and shop name
 API_TOKEN = ''
-SHOP_NAME = '761d3f-f5'
+SHOP_NAME = ''
 API_VERSION = '2024-07'
 
 # Headers for authentication
